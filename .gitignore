@@ -1,0 +1,25 @@
+# Environments
+venv/
+env/
+.env
+
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Temporary backend storage
+backend/temp_repos/
+backend/reports/
+run_output.log
+startup.log
+out.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
